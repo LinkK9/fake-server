@@ -1003,7 +1003,7 @@
 {"id":998,"name":"Wakefield","email":"wzohrerrp@ucsd.edu","gender":"Non-binary","password":"X2wTtBW","birthday":"11/20/2011","phone":"840-203-7647"},
 {"id":999,"name":"Meghan","email":"maggusrq@sohu.com","gender":"Agender","password":"6rALAXgf","birthday":"8/22/2003","phone":"469-367-7184"},
 {"id":1000,"name":"Admin","email":"pass@admin.com","gender":"Non-binary","password":"admin","birthday":"1/07/1992","phone":"448-516-2275"}],
-"task": [
+"todo": [
   {"id":1,"task":"Ăn sáng"}, {"id":2, "task":"đánh răng"}, {"id":3,"task":"Đi vệ sinh"}, {"id":4, "task":"Đi làm"}
 ]
 
