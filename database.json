@@ -9011,7 +9011,7 @@
       "id": 1,
       "taskName": "Ăn sáng",
       "isCompleted": false,
-      "isFavourite": false,
+      "isFavorite": false,
       "createdDate": 1,
       "completedDate": ""
     },
@@ -9019,7 +9019,7 @@
       "id": 2,
       "taskName": "đánh răng",
       "isCompleted": false,
-      "isFavourite": false,
+      "isFavorite": false,
       "createdDate": 2,
       "completedDate": ""
     },
@@ -9027,7 +9027,7 @@
       "id": 3,
       "taskName": "Đi vệ sinh",
       "isCompleted": false,
-      "isFavourite": false,
+      "isFavorite": false,
       "createdDate": 3,
       "completedDate": ""
     },
@@ -9035,7 +9035,7 @@
       "id": 4,
       "taskName": "Đi làm",
       "isCompleted": false,
-      "isFavourite": false,
+      "isFavorite": false,
       "createdDate": 4,
       "completedDate": ""
     }
