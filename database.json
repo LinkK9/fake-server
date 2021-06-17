@@ -9010,7 +9010,7 @@
     {
       "id": 1,
       "taskName": "Ăn sáng",
-      "isCompleted": false,
+      "isCompleted": true,
       "isFavorite": false,
       "createdDate": 1,
       "completedDate": ""
