@@ -1,7 +1,14 @@
 {
   "protected_resources": {
-    "users": ["DELETE"],
-    "products": ["POST", "PUT", "PATCH", "DELETE"]
+    "users": [
+      "DELETE"
+    ],
+    "products": [
+      "POST",
+      "PUT",
+      "PATCH",
+      "DELETE"
+    ]
   },
   "users": [
     {
@@ -831,7 +838,11 @@
       "password": "admin",
       "birthday": "01/01/2021",
       "phone": "835-580-1054",
-      "task": ["Cho con đi học", "Đi làm", "Đón con"]
+      "task": [
+        "Cho con đi học",
+        "Đi làm",
+        "Đón con"
+      ]
     },
     {
       "id": 93,
@@ -9038,6 +9049,19 @@
       "isFavorite": false,
       "createdDate": 4,
       "completedDate": ""
+    },
+    {
+      "taskName": "moi",
+      "id": 5
+    }
+  ],
+  "testSwagger": [
+    {
+      "id": 1,
+      "data": "test"
+    },
+    {
+      "id": 2
     }
   ]
 }
